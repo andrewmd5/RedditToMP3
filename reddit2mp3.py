@@ -1,6 +1,7 @@
 import html.parser
 
 from bs4 import BeautifulSoup
+import urllib
 
 from functions import *
 
